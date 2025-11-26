@@ -208,3 +208,4 @@ Bash
 npm run dev
 # or
 npm start
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a064905-18bb-4a02-b4e8-ba3531928b4f" />
